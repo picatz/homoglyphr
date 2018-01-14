@@ -1,5 +1,5 @@
 # homoglyphr
-> Confusing character generator.
+> Confusing domain name character generator.
 
 A simple [homoglyph](https://en.wikipedia.org/wiki/Homoglyph) generation library for gophers focused on registrable domain name characters.
 
